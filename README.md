@@ -16,4 +16,5 @@
 
 [Figma](https://www.figma.com/file/WVUgSzo3tYtN9jqK1H5m4I/Untitled?node-id=0-1&t=HyA5iGcAf7c3CrWk-0) - user story
 
-[TaskMeister](https://www.meistertask.com/app/project/2DzcAyLT/tp-sots-set)
+[Trello](https://trello.com/b/qyFzH3Gd/тп)
+В последний момент обнаружили что на MeisterTask нельзя сделать проект публичным. Проект переимпортирован на трелло, но к сожалению потеряны все даты
