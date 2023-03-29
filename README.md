@@ -16,9 +16,13 @@
 
 * [Техническое задание pdf](https://github.com/LordOfTheApples123/TP-social-network/blob/main/Наше%20ТЗ.pdf)
 
-* [Курсковой проект doc](https://github.com/LordOfTheApples123/TP-social-network/blob/main/курсач.docx)
+* [Курсовой проект doc](https://github.com/LordOfTheApples123/TP-social-network/blob/main/курсач.docx)
 
-* [Курсковой проект pdf](https://github.com/LordOfTheApples123/TP-social-network/blob/main/курсач.pdf)
+* [Курсовой проект pdf](https://github.com/LordOfTheApples123/TP-social-network/blob/main/курсач.pdf)
+
+* [Презентация pptx](https://github.com/LordOfTheApples123/TP-social-network/blob/main/TP_Project_Presentation.pptx)
+
+* [Презантация pdf](https://github.com/LordOfTheApples123/TP-social-network/blob/main/TP_Project_Presentation.pdf)
 
 * [Figma](https://www.figma.com/file/WVUgSzo3tYtN9jqK1H5m4I/Untitled?node-id=0-1&t=HyA5iGcAf7c3CrWk-0) - user story
 
