@@ -22,7 +22,9 @@
 
 * [Презентация pptx](https://github.com/LordOfTheApples123/TP-social-network/blob/main/TP_Project_Presentation.pptx)
 
-* [Презантация pdf](https://github.com/LordOfTheApples123/TP-social-network/blob/main/TP_Project_Presentation.pdf)
+* [Презентация pdf](https://github.com/LordOfTheApples123/TP-social-network/blob/main/TP_Project_Presentation.pdf)
+
+* [Видеопрезентация](https://disk.yandex.ru/i/QeUS7lc8lKEcTQ)
 
 * [Figma](https://www.figma.com/file/WVUgSzo3tYtN9jqK1H5m4I/Untitled?node-id=0-1&t=HyA5iGcAf7c3CrWk-0) - user story
 
